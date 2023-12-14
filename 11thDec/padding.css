@@ -1,0 +1,76 @@
+.wab page{
+    background-color: yellowgreen;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px 15px 0 0;
+}
+.Like{
+    background-color: rgb(233, 216, 199);
+    padding: 60px;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    border-radius: 40px 40px 40px 40px;
+
+}
+.Share{
+    background-image: url(hulk\ image.png);
+    padding: 80px;
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 05px;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    border-radius: 0 0 30px 30px;
+
+}
+.button1{
+    padding-left: 60px;
+    border-radius: 20%;
+    background-color: darkmagenta;
+    color: burlywood;
+    margin: 5px;
+    cursor: pointer;
+    border-color: khaki;
+    font-weight: bolder;
+
+}
+.button11{
+    border-radius: 30%;
+    background-color: aquamarine;
+    color: rgb(5, 57, 102);
+    margin-left: 888px;
+    border-color: rgb(58, 13, 173);
+    font-weight: bold;
+    
+
+}
+.button2{
+    padding-left: 60px;
+    border-radius: 20%;
+    background-color: darkmagenta;
+    color: burlywood;
+    margin: 5px;
+    cursor: pointer;
+    border-color: khaki;
+    font-weight: bolder;
+}
+.button3{
+    margin-bottom: 35px;
+    border-radius: 20%;
+    background-color: darkmagenta;
+    color: burlywood;
+    margin: 5px;
+    cursor: pointer;
+    border-color: khaki;
+    font-weight: bolder;
+}
+p{
+    color: aqua;
+}
